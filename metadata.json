@@ -1,0 +1,5 @@
+{
+  "name": "ReelKamai",
+  "description": "A vertical video feed application with swipe navigation, autoplay, and user profiles.",
+  "requestFramePermissions": []
+}
