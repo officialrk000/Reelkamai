@@ -6,7 +6,7 @@ import { defineConfig, loadEnv } from 'vite';
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
-    base: "/reelkamai/",   // 👈 ADD THIS LINE
+    base: "https://officialrk000.github.io/reelkamai/",   // 👈 ADD THIS LINE
 
     plugins: [react(), tailwindcss()],
     define: {
